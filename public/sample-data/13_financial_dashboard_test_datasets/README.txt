@@ -1,0 +1,1 @@
+13 synthetic financial investment dashboard test datasets. UTF-8-SIG CSV files. Generated for broad schema detection tests. Files include OHLCV, investor flow, short selling, options, macro, financial statements, valuation, portfolio, sentiment, on-chain, news/events, economic calendar, ETF flows.
